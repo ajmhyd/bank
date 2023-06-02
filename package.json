@@ -20,7 +20,7 @@
     "@solana/wallet-adapter-wallets": "^0.19.11",
     "@solana/web3.js": "^1.75.0",
     "@tailwindcss/typography": "^0.5.9",
-    "daisyui": "^2.51.6",
+    "daisyui": "^3.0.0",
     "date-fns": "^2.30.0",
     "immer": "^9.0.12",
     "next": "^13.3.0",
