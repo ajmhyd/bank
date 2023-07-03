@@ -803,10 +803,10 @@
     "@particle-network/solana-wallet" "^0.5.6"
     "@solana/wallet-adapter-base" "^0.9.22"
 
-"@solana/wallet-adapter-phantom@^0.9.22":
-  version "0.9.22"
-  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-phantom/-/wallet-adapter-phantom-0.9.22.tgz#16a56c9d92129a0f4ed022db3b5b52a2a426506d"
-  integrity sha512-4Fkbv/LN2X23y+Fk3irndrcC7QIOOkjkRh8RFJVzmvaiXdqH71VT8h5H+6LroF7ZaFaozeQF/XzQQqpF2nOgPQ==
+"@solana/wallet-adapter-phantom@^0.9.23":
+  version "0.9.23"
+  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-phantom/-/wallet-adapter-phantom-0.9.23.tgz#90ab8c8d777ae7a0ebfc3387322dc0b1df3e06ae"
+  integrity sha512-tkokOc39FJkMVTFR/wLseLY6g7i6cmVvYRcbW7HHABHAfJ4MPPMNjotF/LcNBu8MFcJiE/4qoO2iEwXiQO+ViQ==
   dependencies:
     "@solana/wallet-adapter-base" "^0.9.22"
 
@@ -950,10 +950,10 @@
     "@jnwng/walletconnect-solana" "^0.2.0"
     "@solana/wallet-adapter-base" "^0.9.22"
 
-"@solana/wallet-adapter-wallets@^0.19.17":
-  version "0.19.17"
-  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-wallets/-/wallet-adapter-wallets-0.19.17.tgz#214e4625a1271833beb48a823730c58f8a37cd14"
-  integrity sha512-Pfp+UjdcIb2Dk0CTuuS35f61eE7YsRxHdiuvoW/fmsio/rBisIsZxem57b+CBn4nXbxtK2AcpssIIhbPB39DzQ==
+"@solana/wallet-adapter-wallets@^0.19.18":
+  version "0.19.18"
+  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-wallets/-/wallet-adapter-wallets-0.19.18.tgz#f74392b8ccd63fc2c0aa8e4f37b5a53b1a59d60c"
+  integrity sha512-+5CPvNfmdIEk62Eg7GGueNhEPB1SI0SOPfhwoxA3t5CRzOGKRLLFdt7aqa+umg1QetOGzVRCeyFbEMnFLF22pA==
   dependencies:
     "@solana/wallet-adapter-alpha" "^0.1.9"
     "@solana/wallet-adapter-avana" "^0.1.12"
@@ -982,7 +982,7 @@
     "@solana/wallet-adapter-nufi" "^0.1.16"
     "@solana/wallet-adapter-onto" "^0.1.6"
     "@solana/wallet-adapter-particle" "^0.1.9"
-    "@solana/wallet-adapter-phantom" "^0.9.22"
+    "@solana/wallet-adapter-phantom" "^0.9.23"
     "@solana/wallet-adapter-safepal" "^0.5.17"
     "@solana/wallet-adapter-saifu" "^0.1.14"
     "@solana/wallet-adapter-salmon" "^0.1.13"
