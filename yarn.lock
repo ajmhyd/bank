@@ -790,10 +790,10 @@
     "@solana/wallet-adapter-base" "^0.9.23"
     bs58 "^4.0.1"
 
-"@solana/wallet-adapter-coinbase@^0.1.18":
-  version "0.1.18"
-  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-coinbase/-/wallet-adapter-coinbase-0.1.18.tgz#f45254ad67479d6f9f95cd7bbd4f4e2db54abaa0"
-  integrity sha512-63dFQCAaUgcJBA4XxIZLMzyluMPTZKzz1D9yT5lb60WgcIcsQjL7HKIqUCA4j5kT5BkbJIqaNAxhwcq7OlE+4A==
+"@solana/wallet-adapter-coinbase@^0.1.19":
+  version "0.1.19"
+  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-coinbase/-/wallet-adapter-coinbase-0.1.19.tgz#b750fa739c67390e0918bd7ccc21f39fd602d462"
+  integrity sha512-hcf9ieAbQxD2g8/5glXVAt67w+3iixpjMMZC7lT7Wa8SJZsq6lmISC9AtZctDEQcWSVV0IkedZp3bg6bp22kng==
   dependencies:
     "@solana/wallet-adapter-base" "^0.9.23"
 
@@ -1034,10 +1034,10 @@
     "@jnwng/walletconnect-solana" "^0.2.0"
     "@solana/wallet-adapter-base" "^0.9.23"
 
-"@solana/wallet-adapter-wallets@^0.19.26":
-  version "0.19.26"
-  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-wallets/-/wallet-adapter-wallets-0.19.26.tgz#a2034f54dfda69313f649eeb4dd91142055a1874"
-  integrity sha512-sOHQNX5YArh2dOHtosSUEfEc/xSzXDZN3h1CCgetJW4Dd3Lpj4RqzCmjVb3oslAH+IBZ5L9o5NKkvjN5R68R7g==
+"@solana/wallet-adapter-wallets@^0.19.27":
+  version "0.19.27"
+  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-wallets/-/wallet-adapter-wallets-0.19.27.tgz#6d185c4c6ea531b97c785fb7451d4bf7ae0bcdd1"
+  integrity sha512-rmAzMx3oINRGTXYV7XTMBEBcC2FFGQmt1sXVE6XOGP4oJOvohxUowc6j4ulGq3SrxdOWf9Tk0wKlsevQKAWuMA==
   dependencies:
     "@solana/wallet-adapter-alpha" "^0.1.10"
     "@solana/wallet-adapter-avana" "^0.1.13"
@@ -1045,7 +1045,7 @@
     "@solana/wallet-adapter-bitpie" "^0.5.18"
     "@solana/wallet-adapter-clover" "^0.4.19"
     "@solana/wallet-adapter-coin98" "^0.5.20"
-    "@solana/wallet-adapter-coinbase" "^0.1.18"
+    "@solana/wallet-adapter-coinbase" "^0.1.19"
     "@solana/wallet-adapter-coinhub" "^0.3.18"
     "@solana/wallet-adapter-fractal" "^0.1.8"
     "@solana/wallet-adapter-huobi" "^0.1.15"
