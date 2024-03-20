@@ -1118,10 +1118,10 @@
     process "^0.11.10"
     stream-browserify "^3.0.0"
 
-"@solana/wallet-adapter-trezor@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-trezor/-/wallet-adapter-trezor-0.1.1.tgz#dadd3e72db35de80151dd4b5b4c7338b6e6bb4e6"
-  integrity sha512-TNA+koyyMo7Apbp2wVxftON5KNT+YmGW/TKiQmJ/6jG4VSw19u4FPUyApMYMvXv0ebUifDfRY7VxL1CJiT5tOQ==
+"@solana/wallet-adapter-trezor@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-trezor/-/wallet-adapter-trezor-0.1.2.tgz#05c1a31ac9bbbbf9457927cec1152965423c7362"
+  integrity sha512-x4nXntYi1SIv63ZdXWX/Rq/VKwguByKu67WpyUXsu8kOdviksb20bQMuAR7Ue41oJ9zSnLlTxAxA1SuWNkFRBg==
   dependencies:
     "@solana/wallet-adapter-base" "^0.9.23"
     "@trezor/connect-web" "^9.2.1"
@@ -1152,10 +1152,10 @@
     "@jnwng/walletconnect-solana" "^0.2.0"
     "@solana/wallet-adapter-base" "^0.9.23"
 
-"@solana/wallet-adapter-wallets@^0.19.31":
-  version "0.19.31"
-  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-wallets/-/wallet-adapter-wallets-0.19.31.tgz#810de6d0927659767f39fd2f2e5016acc284c34f"
-  integrity sha512-CH+ShvL4zfVl/lciuwQiGj9gGT+58+SoE3FXOfAtmDaalaGHoSuTqeNufRhd3J7VF2bJqEbZvCkn7iqrNzXLGg==
+"@solana/wallet-adapter-wallets@^0.19.32":
+  version "0.19.32"
+  resolved "https://registry.yarnpkg.com/@solana/wallet-adapter-wallets/-/wallet-adapter-wallets-0.19.32.tgz#2b3c887e825a480c7c210d2794c19a7c2c1ed57a"
+  integrity sha512-voZYQiIy1yXuKvm7x7YpnQ53eiJC7NpIYSQjzApOUiswiBRVeYcnPO4O/MMPUwsGkS7iZKqKZjo5CnOaN44n+g==
   dependencies:
     "@solana/wallet-adapter-alpha" "^0.1.10"
     "@solana/wallet-adapter-avana" "^0.1.13"
@@ -1188,7 +1188,7 @@
     "@solana/wallet-adapter-tokenary" "^0.1.12"
     "@solana/wallet-adapter-tokenpocket" "^0.4.19"
     "@solana/wallet-adapter-torus" "^0.11.28"
-    "@solana/wallet-adapter-trezor" "^0.1.1"
+    "@solana/wallet-adapter-trezor" "^0.1.2"
     "@solana/wallet-adapter-trust" "^0.1.13"
     "@solana/wallet-adapter-unsafe-burner" "^0.1.7"
     "@solana/wallet-adapter-walletconnect" "^0.1.16"
