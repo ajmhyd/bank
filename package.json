@@ -21,7 +21,7 @@
     "@solana/web3.js": "^1.95.3",
     "@tailwindcss/typography": "^0.5.15",
     "daisyui": "^4.12.13",
-    "date-fns": "^3.6.0",
+    "date-fns": "^4.1.0",
     "immer": "^10.1.1",
     "next": "^15.0.2",
     "next-compose-plugins": "^2.2.1",
