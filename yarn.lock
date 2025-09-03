@@ -3815,10 +3815,10 @@ csstype@^3.0.2:
   resolved "https://registry.npmjs.org/csstype/-/csstype-3.1.1.tgz"
   integrity sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==
 
-daisyui@^5.0.50:
-  version "5.0.50"
-  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-5.0.50.tgz#764da931c9cdad22114e054c8af6d410326cc226"
-  integrity sha512-c1PweK5RI1C76q58FKvbS4jzgyNJSP6CGTQ+KkZYzADdJoERnOxFoeLfDHmQgxLpjEzlYhFMXCeodQNLCC9bow==
+daisyui@^5.1.4:
+  version "5.1.4"
+  resolved "https://registry.yarnpkg.com/daisyui/-/daisyui-5.1.4.tgz#78255c9652898c6aad1f5cc2b430cb147dde803b"
+  integrity sha512-iHBh6TvGuve9OeS+gEx0p8rIkws735QtUOyxr4G9u/E/dxdOQh+yzJs1dOwyb2CGJTjkGpgu5N4AQ728yfDAaw==
 
 damerau-levenshtein@^1.0.8:
   version "1.0.8"
