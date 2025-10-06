@@ -31,7 +31,7 @@
     "zustand": "^5.0.8"
   },
   "devDependencies": {
-    "@types/node": "^24.6.0",
+    "@types/node": "^24.7.0",
     "@types/react": "^18.2.79",
     "autoprefixer": "^10.4.21",
     "eslint": "9.36.0",
