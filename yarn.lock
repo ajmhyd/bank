@@ -748,10 +748,10 @@
   dependencies:
     "@noble/hashes" "1.8.0"
 
-"@noble/ed25519@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@noble/ed25519/-/ed25519-3.0.0.tgz#720d4cdb6b5f632e29164a7e9d5cdfeb82a7ac86"
-  integrity sha512-QyteqMNm0GLqfa5SoYbSC3+Pvykwpn95Zgth4MFVSMKBB75ELl9tX1LAVsN4c3HXOrakHsF2gL4zWDAYCcsnzg==
+"@noble/ed25519@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@noble/ed25519/-/ed25519-3.0.1.tgz#d285ef37dd97cb4733593e269aaff1932a54c80f"
+  integrity sha512-t/T8LuK0ym8ALQudCCQCtrRdMSxBnRgHXw+wg+YsSlE6d+on7sX3flqlSJ2mOs9xEuchM36kj9SuX5MG7pXQMA==
 
 "@noble/hashes@1.4.0", "@noble/hashes@~1.4.0":
   version "1.4.0"
